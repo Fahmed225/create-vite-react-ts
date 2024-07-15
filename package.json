@@ -1,0 +1,8 @@
+{
+  "name": "create-vite-react-ts",
+  "version": "1.0.0",
+  "description": "Create a Vite React TypeScript project with Tailwind CSS in a specific folder",
+  "bin": {
+    "create-vite-react-ts": "./create-vite-react-ts.js"
+  }
+}
